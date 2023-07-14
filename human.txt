@@ -1,3 +1,5 @@
 head
 eye
 nose
+chest
+mouth
