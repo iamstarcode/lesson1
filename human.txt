@@ -2,3 +2,4 @@ cap
 head
 eye
 nose
+mouth
